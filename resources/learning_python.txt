@@ -1,0 +1,5 @@
+In Python you can learn the list
+In Python you can learn the dict
+In Python you can learn the set
+In Python you can learn the class
+In Python you can learn the exception
